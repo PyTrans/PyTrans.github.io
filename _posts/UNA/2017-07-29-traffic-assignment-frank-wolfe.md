@@ -7,12 +7,6 @@ breadcrumb: true
 categories:
     - UNA
 permalink: /tutorials/una/frank-wolfe/
-<!-- tags:
-	- traffic assignment
-	- frank wolfe
-	- urban network analysis
-	- static traffic assignment
-	- all or nothing assignment -->
 header:
    image_fullwidth: header_unsplash_leaf.jpg
 ---
