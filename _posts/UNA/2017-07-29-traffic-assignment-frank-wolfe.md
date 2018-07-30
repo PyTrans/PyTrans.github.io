@@ -18,5 +18,5 @@ header:
 ---
 Hello world of FW algorithm
 <div class="row" style="height: 1500px; width: :1000px">
-    <iframe src="http://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Urban%20Network%20Analysis_12.Trip%20Assignment%20-%20Frank-Wolfe%20Algorithm.ipynb" frameborder="0" > </iframe>
+    <iframe src="http://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Urban%20Network%20Analysis_12.Trip%20Assignment%20-%20Frank-Wolfe%20Algorithm.ipynb" frameborder="0" width="100%" height="100%"> </iframe>
 </div>
