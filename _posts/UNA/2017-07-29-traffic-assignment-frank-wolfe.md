@@ -17,6 +17,6 @@ header:
     image_fullwidth: unsplash_brooklyn-bridge_header.jpg
 ---
 Hello world of FW algorithm
-<div class="fluidMedia" style="height: 1500px;">
+<div class="fluidMedia" style="height: 100%; width: :100%">
     <iframe src="http://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Urban%20Network%20Analysis_12.Trip%20Assignment%20-%20Frank-Wolfe%20Algorithm.ipynb" frameborder="0" > </iframe>
 </div>
