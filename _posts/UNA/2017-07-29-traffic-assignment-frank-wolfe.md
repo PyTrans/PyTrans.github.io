@@ -8,6 +8,7 @@ categories:
     - UNA
 permalink: /tutorials/una/frank-wolfe/
 header:
-   image_fullwidth: header_unsplash_leaf.jpg
+	title: PyTrans
+	image_fullwidth: header_unsplash_leaf.jpg
 ---
 Hello world of FW algorithm
