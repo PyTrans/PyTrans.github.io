@@ -1,12 +1,12 @@
 ---
 layout: page-fullwidth
-title:  "Urban Network Analysis"
+title:  "Discrete Choice Model"
 subheadline:  "Tutorials"
-teaser: "A list of tutorials for unban network analysis"
+teaser: "A list of tutorials for discrete choice model"
 breadcrumb: true
 categories:
     - Tutorials
-permalink: /tutorials/una/
+permalink: /tutorials/dcm/
 header:
     title: PyTrans
     image_fullwidth: unsplash_brooklyn-bridge_header.jpg
