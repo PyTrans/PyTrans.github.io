@@ -1,36 +1,22 @@
-- title: Start
+- title: HOME
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: ABOUT US
+  url: "/about_us/"
   side: left
 
-- title: "Templates"
-  url: "/design/"
+- title: "TUTORIALS"
+  url: "/tutorials/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
-
+  - title: "Urban Network Anlaysis"
+    url: "/tutorials/UrbanNetworkAnalysis/"
+    dropdown:
+      - title: "Traffic Assignment - Frank-Wolfe Algorithm"
+        url: "/tutorials/UrbanNetworkAnalysis/Frank_Wolfe"
+      - title: "Traffic Assignment – Gradient Projection"
+        url: "/tutorials/UrbanNetworkAnalysis/Gradient_Projection"
 - title: "Header Styles"
   url: "/headers/"
   side: left
