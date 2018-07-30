@@ -22,8 +22,6 @@ Hello world of FW algorithm
 </div> -->
 
 <div class="row" style="height: 1500px; width: :100%">
-	<object data="http://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Urban%20Network%20Analysis_12.Trip%20Assignment%20-%20Frank-Wolfe%20Algorithm.ipynb" width="100%" height="100%" type="text/html">
-    	<embed scr="http://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Urban%20Network%20Analysis_12.Trip%20Assignment%20-%20Frank-Wolfe%20Algorithm.ipynb" width="100%" height="100%"> </embed>
-    Alternative Content
-	</object>
+    <embed type="text/html" scr="http://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Urban%20Network%20Analysis_12.Trip%20Assignment%20-%20Frank-Wolfe%20Algorithm.ipynb" width="100%" height="100%">
+    </embed>
 </div>
