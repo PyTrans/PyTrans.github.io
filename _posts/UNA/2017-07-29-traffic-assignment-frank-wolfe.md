@@ -8,10 +8,10 @@ categories:
     - UNA
 permalink: /tutorials/una/frank-wolfe/
 header:
-	title: PyTrans
+	title: "PyTrans"
 	background-color: "#EFC94C;"
-	image_fullwidth: unsplash_brooklyn-bridge_header.jpg
-	caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+	image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
+	caption: "This is a caption for the header image with link"
+    caption_url: "https://unsplash.com/ "
 ---
 Hello world of FW algorithm
