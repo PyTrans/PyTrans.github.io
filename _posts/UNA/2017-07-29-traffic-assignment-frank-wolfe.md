@@ -21,8 +21,9 @@ Hello world of FW algorithm
     <iframe src="http://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Urban%20Network%20Analysis_12.Trip%20Assignment%20-%20Frank-Wolfe%20Algorithm.ipynb" frameborder="0" width="100%" height="100%"> </iframe>
 </div> -->
 
-<div class="row" style="height: 100%; width: :100%">
+<div class="row" style="height: 1500px; width: :100%">
 	<object data="http://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Urban%20Network%20Analysis_12.Trip%20Assignment%20-%20Frank-Wolfe%20Algorithm.ipynb" width="100%" height="100%" type="text/html">
+    	<embed scr="http://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Urban%20Network%20Analysis_12.Trip%20Assignment%20-%20Frank-Wolfe%20Algorithm.ipynb" width="100%" height="100%"> </embed>
     Alternative Content
 	</object>
 </div>
