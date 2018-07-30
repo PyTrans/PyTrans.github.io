@@ -11,8 +11,15 @@
   side: left
   dropdown:
   - title: "Urban Network Anlaysis"
-    url: "/tutorials/UrbanNetworkAnalysis/"
-    dropdown:
+    url: "/tutorials/una/"
+  - title: "Traffic Flow Theory"
+    url: "/tutorials/tft/"
+  - title: "Discrete Choice Model"
+    url: "/tutorials/dcm/"
+  - title: "Statistics"
+    url: "/tutorials/stat/"
+  - title: "Application Programming Interface"
+    url: "/tutorials/api/"
 
 - title: BLOG
   url: "/blog/"
