@@ -6,13 +6,13 @@ teaser: "Traffic assignment "
 breadcrumb: true
 categories:
     - UNA
-permalink: /tutorials/una/frank-wolfe
-tags:
+permalink: /tutorials/una/frank-wolfe/
+tag<!-- s:
 	- traffic assignment
-	- frank-wolfe
+	- frank wolfe
 	- urban network analysis
 	- static traffic assignment
-	- all-or-nothing assignment
+	- all or noth -->ing assignment
 header:
    image_fullwidth: header_unsplash_leaf.jpg
 ---
