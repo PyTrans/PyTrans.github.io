@@ -16,6 +16,7 @@ widget1:
 widget2:
   title: "Traffic Flow Theory"
   url: 'https://pytrans.github.io/tutorials/tft/'
+  image: widget-github-303x182.jpg
   text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
 widget3:
   title: "Discrete Choice Model"
@@ -25,6 +26,7 @@ widget3:
 widget4:
   title: "Statistics"
   url: 'https://pytrans.github.io/tutorials/stat/'
+  image: widget-github-303x182.jpg
   text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
 widget5:
   title: "Application Programming Interface"
