@@ -6,6 +6,7 @@
 #
 layout: frontpage
 header:
+  title: PyTrans
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Blog & Portfolio"
