@@ -5,7 +5,7 @@ title: "Welcome to the tutorials!"
 subheadline: "Gategoires"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/Tutorials/"
+permalink: "/tutorials/"
 ---
 <ul>
     {% for post in site.categories.Tutorials %}
