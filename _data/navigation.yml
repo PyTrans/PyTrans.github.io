@@ -10,7 +10,7 @@
   url: "/tutorials/"
   side: left
   dropdown:
-  - title: "Urban Network Anlaysis"
+  - title: "Urban Network Analysis"
     url: "/tutorials/una/"
   - title: "Traffic Flow Theory"
     url: "/tutorials/tft/"
