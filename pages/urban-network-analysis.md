@@ -11,3 +11,6 @@ header:
     title: PyTrans
     image_fullwidth: unsplash_brooklyn-bridge_header.jpg
 ---
+## Traffic Assignment
+
+### [Frank-Wolfe Algorithm](http://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Trip_Assignment-Frank-Wolfe_Algorithm.ipynb)
