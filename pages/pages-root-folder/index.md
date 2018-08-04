@@ -16,7 +16,7 @@ widget1:
 widget2:
   title: "Traffic Flow Theory"
   url: 'https://pytrans.github.io/tutorials/tft/'
-  image: widget-tft_1-302x182.jpg
+  image: widget-tft_1-303x182.jpg
   text: 'Traffic Flow Theory'
 widget3:
   title: "Discrete Choice Model"
