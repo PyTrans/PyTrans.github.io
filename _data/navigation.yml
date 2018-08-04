@@ -28,6 +28,10 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
+- title: "Developer Guidance"
+  url: "/developer-guidance/"
+  side: right
+
 - title: "Search"
   url: "/search/"
   side: right
