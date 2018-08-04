@@ -11,28 +11,28 @@ header:
 widget1:
   title: "Urban Network Analysis"
   url: 'https://pytrans.github.io/tutorials/una/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and developments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  image: widget-una_1-302x181.jpg
+  text: 'Urban Network Analysis'
 widget2:
   title: "Traffic Flow Theory"
   url: 'https://pytrans.github.io/tutorials/tft/'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  image: widget-tft_1-302x182.jpg
+  text: 'Traffic Flow Theory'
 widget3:
   title: "Discrete Choice Model"
   url: 'https://pytrans.github.io/tutorials/dcm/'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  image: widget-dcm_1-303x182.jpg
+  text: 'Discrete Choice Model'
 widget4:
   title: "Statistics"
   url: 'https://pytrans.github.io/tutorials/stat/'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  image: widget-stat_1-303x182.jpg
+  text: 'Statistics'
 widget5:
   title: "Application Programming Interface"
   url: 'https://pytrans.github.io/tutorials/api/'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  image: widget-api_1-303x182.jpg
+  text: 'Application Programming Interface'
 #
 # Use the call for action to show a button on the frontpage
 #
