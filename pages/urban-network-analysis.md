@@ -13,4 +13,6 @@ header:
 ---
 ## Traffic Assignment
 
-### [Frank-Wolfe Algorithm](http://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Trip_Assignment-Frank-Wolfe_Algorithm.ipynb)
+### [Frank-Wolfe Algorithm](https://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Trip_Assignment-Frank-Wolfe_Algorithm.ipynb)
+
+### [Gradient Projection Algorithm](https://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Trip_Assignment-Gradient_Projection.ipynb)
