@@ -21,12 +21,12 @@
   - title: "Application Programming Interface"
     url: "/tutorials/api/"
 
-- title: BLOG
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+# - title: BLOG
+#   url: "/blog/"
+#   side: left
+#   dropdown:
+#   - title: "Blog Archive"
+#     url: "/blog/archive/"
 
 - title: "Developer Guidance"
   url: "/developer-guidance/"
