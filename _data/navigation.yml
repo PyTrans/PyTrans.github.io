@@ -2,9 +2,9 @@
   url: "/"
   side: left
 
-- title: ABOUT US
-  url: "/about_us/"
-  side: left
+# - title: ABOUT US
+#   url: "/about_us/"
+#   side: left
 
 - title: "TUTORIALS"
   url: "/tutorials/"
