@@ -15,7 +15,10 @@ This repository includes notebooks of statistics frequently used in Transportati
 
 ## Count Data Analysis
 
-###1. Count data exmaple
-###2. [Statistics in regression works](http://nbviewer.jupyter.org/github/PyTrans/Statistics/blob/master/Count-Statistics_in_regression_using_count_data.ipynb)
-###3. Poisson Regression
-###4. Negative Binomial Regression
+### 1. Count data exmaple
+
+### 2. [Statistics in regression works](http://nbviewer.jupyter.org/github/PyTrans/Statistics/blob/master/Count-Statistics_in_regression_using_count_data.ipynb)
+
+### 3. Poisson Regression
+
+### 4. Negative Binomial Regression
