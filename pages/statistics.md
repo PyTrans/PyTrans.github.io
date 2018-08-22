@@ -11,3 +11,14 @@ header:
     title: PyTrans
     image_fullwidth: unsplash_brooklyn-bridge_header.jpg
 ---
+This repository includes notebooks of statistics frequently used in Transportation studies.
+
+## Count Data Analysis
+
+#### 1. Count data exmaple
+
+#### 2. [Statistics in regression works](http://nbviewer.jupyter.org/github/PyTrans/Statistics/blob/master/Count-Statistics_in_regression_using_count_data.ipynb)
+
+#### 3. [Poisson Regression](http://nbviewer.jupyter.org/github/PyTrans/Statistics/blob/master/Count-Poisson_regression.ipynb)
+
+#### 4. Negative Binomial Regression

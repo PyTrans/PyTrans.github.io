@@ -2,15 +2,15 @@
   url: "/"
   side: left
 
-- title: ABOUT US
-  url: "/about_us/"
-  side: left
+# - title: ABOUT US
+#   url: "/about_us/"
+#   side: left
 
 - title: "TUTORIALS"
   url: "/tutorials/"
   side: left
   dropdown:
-  - title: "Urban Network Anlaysis"
+  - title: "Urban Network Analysis"
     url: "/tutorials/una/"
   - title: "Traffic Flow Theory"
     url: "/tutorials/tft/"
@@ -21,12 +21,16 @@
   - title: "Application Programming Interface"
     url: "/tutorials/api/"
 
-- title: BLOG
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+# - title: BLOG
+#   url: "/blog/"
+#   side: left
+#   dropdown:
+#   - title: "Blog Archive"
+#     url: "/blog/archive/"
+
+- title: "Developer Guidance"
+  url: "/developer-guidance/"
+  side: right
 
 - title: "Search"
   url: "/search/"
