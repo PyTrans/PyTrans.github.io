@@ -29,6 +29,11 @@ widget4:
   image: widget-stat_1-303x182.jpg
   text: 'Statistics'
 widget5:
+  title: "Optimization"
+  url: 'https://pytrans.github.io/tutorials/opt/'
+  image: widget-opt_1-303x182.jpg
+  text: 'Optimization'
+widget6:
   title: "Application Programming Interface"
   url: 'https://pytrans.github.io/tutorials/api/'
   image: widget-api_1-303x182.jpg

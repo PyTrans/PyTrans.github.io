@@ -18,6 +18,8 @@
     url: "/tutorials/dcm/"
   - title: "Statistics"
     url: "/tutorials/stat/"
+  - title: "Optimization"
+    url: "/tutorials/opt/"
   - title: "Application Programming Interface"
     url: "/tutorials/api/"
 
