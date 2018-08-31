@@ -13,6 +13,10 @@ header:
 ---
 ## Traffic Assignment
 
+#### [Network Structure](http://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Network%20Structure.ipynb)
+
+#### [Shortest Path Algorithm-Dijsktra](https://github.com/PyTrans/Urban-Network-Analysis/blob/master/Shortest%20Path%20Algorithm.ipynb)
+
 #### [Frank-Wolfe Algorithm](https://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Trip_Assignment-Frank-Wolfe_Algorithm.ipynb)
 
 #### [Gradient Projection Algorithm](https://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Trip_Assignment-Gradient_Projection.ipynb)
