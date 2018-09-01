@@ -43,6 +43,9 @@ improve_content:
 #
 urlimg: 'https://pytrans.github.io/images/'
 
+# Google Analytics
+google_analytics: UA-125077210-1
+
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
