@@ -54,7 +54,11 @@
 	{% if page.noindex == true or layout.noindex == true %}<meta name="robots" content="noindex">{% endif %}
 	<link rel="canonical" href="{{ url }}{{ page.url }}">
 
-
+	<!-- Google analytics -->
+	{% if site.google_analytics and jekyll.environment == 'production' %}
+	{% include analytics.html %}
+	{% endif %}
+	
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="{{ title }}">
 	<meta property="og:description" content="{{ description }}">
