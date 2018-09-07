@@ -13,5 +13,7 @@ header:
 ---
 ## Current Discrete Choice models
 
-### 1. [Binomial Logit](http://nbviewer.jupyter.org/github/PyTrans/Discrete-Choice-Models/blob/master/DCM_1_BinomialLogit/BinaryLogitModel.ipynb)
-### 2. [Nested Logit](http://nbviewer.jupyter.org/github/PyTrans/Discrete-Choice-Models/blob/master/DCM_2_NestedLogit/Nested%20Logit%20Model.ipynb)
+### 1. Likelihood - coming soon!
+### 2. [Binomial Logit](http://nbviewer.jupyter.org/github/PyTrans/Discrete-Choice-Models/blob/master/DCM_1_BinomialLogit/BinaryLogitModel.ipynb)
+### 3. [Nested Logit](http://nbviewer.jupyter.org/github/PyTrans/Discrete-Choice-Models/blob/master/DCM_2_NestedLogit/Nested%20Logit%20Model.ipynb)
+### 4. Probit model - coming soon!
