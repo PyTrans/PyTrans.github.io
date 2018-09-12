@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Discrete-Choice-Models/.idea/Discrete-Choice-Models.iml" filepath="$PROJECT_DIR$/../Discrete-Choice-Models/.idea/Discrete-Choice-Models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Urban-Network-Analysis/.idea/Urban-Network-Analysis.iml" filepath="$PROJECT_DIR$/../Urban-Network-Analysis/.idea/Urban-Network-Analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pytrans.github.io.iml" filepath="$PROJECT_DIR$/.idea/pytrans.github.io.iml" />
+    </modules>
+  </component>
+</project>

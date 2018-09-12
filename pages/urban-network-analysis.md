@@ -17,6 +17,10 @@ header:
 
 #### [Shortest Path Algorithm-Dijsktra](https://github.com/PyTrans/Urban-Network-Analysis/blob/master/Shortest%20Path%20Algorithm.ipynb)
 
+#### [Shortest Path Algorithm-Bellman-Ford](http://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Bellman-Ford%20Algorithm.ipynb)
+
+#### [Shortest Path Algorithm-Floyd-Warshall](http://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Floyd-Warshall%20Algorithm.ipynb)
+
 #### [Frank-Wolfe Algorithm](https://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Trip_Assignment-Frank-Wolfe_Algorithm.ipynb)
 
 #### [Gradient Projection Algorithm](https://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Trip_Assignment-Gradient_Projection.ipynb)
