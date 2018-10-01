@@ -15,7 +15,7 @@ header:
 
 #### [Network Structure](http://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Network%20Structure.ipynb)
 
-#### [Shortest Path Algorithm-Dijsktra](https://github.com/PyTrans/Urban-Network-Analysis/blob/master/Shortest%20Path%20Algorithm.ipynb)
+#### [Shortest Path Algorithm-Dijsktra](http://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Shortest%20Path%20Algorithm.ipynb)
 
 #### [Shortest Path Algorithm-Bellman-Ford](http://nbviewer.jupyter.org/github/PyTrans/Urban-Network-Analysis/blob/master/Bellman-Ford%20Algorithm.ipynb)
 
