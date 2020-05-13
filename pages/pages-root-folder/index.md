@@ -34,15 +34,15 @@ widget5:
   image: widget-opt_1-302x182.jpg
   text: 'Optimization'
 widget6:
-  title: "Application Programming Interface"
-  url: 'https://pytrans.github.io/tutorials/api/'
-  image: widget-api_1-303x182.jpg
-  text: 'Application Programming Interface'
-widget7:
   title: "Artificial Intelligence"
   url: 'https://pytrans.github.io/tutorials/ai/'
   image: widget-ai_1-302x181.jpg
   text: 'Artificial Intelligence'
+widget7:
+  title: "Application Programming Interface"
+  url: 'https://pytrans.github.io/tutorials/api/'
+  image: widget-api_1-303x182.jpg
+  text: 'Application Programming Interface'
 #
 # Use the call for action to show a button on the frontpage
 #
