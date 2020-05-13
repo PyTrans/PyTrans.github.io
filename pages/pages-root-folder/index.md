@@ -41,7 +41,7 @@ widget6:
 widget7:
   title: "Artificial Intelligence"
   url: 'https://pytrans.github.io/tutorials/ai/'
-  image: widget-api_1-303x182.jpg
+  image: widget-ai_1-302x181.jpg
   text: 'Artificial Intelligence'
 #
 # Use the call for action to show a button on the frontpage
